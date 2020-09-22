@@ -18,13 +18,12 @@ Funcionalidades futuras:
 
 ## Classes
 
-Usuários
+Classe: Usuários
 
--> Admministradores
--> Clientes
+Subclasses: Administradores, Clientes
 
-Livros
+Classe: Livros
 
-Autores
+Classe: Autores
 
 
