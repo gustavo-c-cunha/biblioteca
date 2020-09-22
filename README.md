@@ -15,15 +15,4 @@ Funcionalidades futuras:
 
 -Previsões de quais títulos são mais procurados em determinada região ou época do ano.
 
-
-## Classes
-
-Classe: Usuários
-
-Subclasses: Administradores, Clientes
-
-Classe: Livros
-
-Classe: Autores
-
-
+![](https://github.com/gustavo-c-cunha/biblioteca/blob/master/diagrama2.jpg)
