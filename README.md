@@ -19,8 +19,9 @@ Funcionalidades futuras:
 ## Classes
 
 Usuários
--Admministradores
--Clientes
+
+-> Admministradores
+-> Clientes
 
 Livros
 
