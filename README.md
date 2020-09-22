@@ -14,3 +14,16 @@ Funcionalidades futuras:
 -Um sistema de recomendações inteligente, personalizadas por cliente.
 
 -Previsões de quais títulos são mais procurados em determinada região ou época do ano.
+
+
+## Classes
+
+Usuários
+-Admministradores
+-Clientes
+
+Livros
+
+Autores
+
+
