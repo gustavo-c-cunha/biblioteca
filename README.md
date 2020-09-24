@@ -15,4 +15,4 @@ Funcionalidades futuras:
 
 -Previsões de quais títulos são mais procurados em determinada região ou época do ano.
 
-![](https://github.com/gustavo-c-cunha/biblioteca/blob/master/diagrama2.jpg)
+![]()
