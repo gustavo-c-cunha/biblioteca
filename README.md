@@ -7,12 +7,12 @@ Cada usuário será cadastrado com nome, idade, telefone, e-mail, endereço e CP
 Os livros contarão com código de identificação, título, autor, data de lançamento, gênero e editora.
 O sistema será capaz de gerar relatórios sobre quais são os livros e gêneros mais e menos locados, bem como as preferências por faixas etárias.
 
-Funcionalidades futuras:
+![](https://github.com/gustavo-c-cunha/biblioteca/blob/master/diagrama2.jpg?raw=true)
+
+## Funcionalidades futuras:
 
 -Adicionar características de rede social, com perfis de usuários mais completos e possibilidade de compartilhamento em redes sociais.
 
 -Um sistema de recomendações inteligente, personalizadas por cliente.
 
 -Previsões de quais títulos são mais procurados em determinada região ou época do ano.
-
-![]()
