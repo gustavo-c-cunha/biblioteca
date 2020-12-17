@@ -1,11 +1,10 @@
 # Projeto Biblioteca
-Iremos desenvolver um sistema de gerenciamento completo para uma biblioteca.
-O programa contará com o cadastro de livros, autores, gêneros, e usuários.
-Os usuários podem ser cadastrados como "clientes", para realizarem a locação de materiais, ou como administradores, onde poderão operar o sistema.
-Os administradores terão permissão especial e poderão cadastrar novos usuários e novos livros, bem como excluir usuários e livros.
-Cada usuário será cadastrado com nome, idade, telefone, e-mail, endereço e CPF.
-Os livros contarão com código de identificação, título, autor, data de lançamento, gênero e editora.
-O sistema será capaz de gerar relatórios sobre quais são os livros e gêneros mais e menos locados, bem como as preferências por faixas etárias.
+Iremos desenvolver um sistema de gerenciamento para uma biblioteca. O programa contará com o cadastro de livros, autores, gêneros, e usuários.
+Os usuários podem utilizar o sistema para checar informações referentes as obras. Ao selecionar um determinado exemplar, os usuários poderão veríficar o título, o autor, o gênero literário e a disponibilidade do livro, bem como a data prevista para que esteja disponível para locação.
+
+Os administradores terão permissão especial e poderão cadastrar novos usuários, livros, gêneros e controlar o empréstimo dos materiais. Cada administrador será cadastrado com nome de usuário, senha, e-mail, nome e sobrenome.
+Os livros contarão com código de identificação (id), título, autor e gênero. O cadastro dos autores, será feito com nome e sobrenome.
+
 
 ![](https://github.com/gustavo-c-cunha/biblioteca/blob/master/diagramaUML.png)
 
